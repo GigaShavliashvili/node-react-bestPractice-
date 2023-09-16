@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@types/config": "^3.3.0"
+  }
+}
